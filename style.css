@@ -23,7 +23,7 @@ body {
 .clock-container {
   margin-top: 30px;
   margin-bottom: 30px;
-  background-color: #EDEDEB;
+  background-color: rgba(237, 237, 235, 50);
   border-radius: 5px;
   padding: 60px 20px;
   box-shadow: 1px 1px 5px rgba(255, 255, 255, 0.15), 0 15px 90px 30px rgba(0, 0, 0, 0.25);
