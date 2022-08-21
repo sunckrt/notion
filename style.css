@@ -58,7 +58,7 @@ body {
   text-transform: uppercase;
 }
 .clock-label {
-  color: rgba(255, 255, 255, 0.35);
+  color: #787774;
   text-transform: uppercase;
   font-size: 0.7rem;
   margin-top: 10px;
