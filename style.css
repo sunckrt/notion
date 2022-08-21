@@ -38,7 +38,7 @@ body {
 }
 .clock-col:not(:last-child):before, .clock-col:not(:last-child):after {
   content: "";
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: #787774;
   height: 5px;
   width: 5px;
   border-radius: 50%;
